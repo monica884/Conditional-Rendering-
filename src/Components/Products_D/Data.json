@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Product A",
+        "image": "https://media.istockphoto.com/id/1401428128/photo/cup-of-hot-tea.jpg?s=1024x1024&w=is&k=20&c=K3wlmByl_OOt5pW_tjI0ix6u9s-uiZ0ypOVcOQhapTk=",
+        "Price": "230",
+        "description": "Description of Product A"
+    },
+    {
+        "id": 2,
+        "name": "Product B",
+        "image": "https://ik.imagekit.io/dunzo/46f20cad4ba711ed86fe1908787a117d_VARIANT_5c74d4fc2066a44f4a813f60_1.jpg?tr=w-488,h-488,cm-pad_resize",
+        "Price": "930",
+        "description": "Description of Product B"
+    },
+    {
+        "id": 3,
+        "name": "Product C",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwIN8z1Sf9MjLf4QsuqG1nm3ltIhoRxkrj41FAn46B7VwWBDc9",
+        "Price": "280",
+        "description": "Description of Product C"
+    },
+    {
+        "id": 4,
+        "name": "Product D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr8C7uSmiyjmB1VEoWERf0-6a9II5ZwCliPw&s",
+        "Price": "498",
+        "description": "Description of Product D"
+    },
+    {
+        "id": 5,
+        "name": "Product E",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0a-3uyQ9B4bVyJmbPEeawulA4SLxp7f2cXA&s",
+        "Price": "730",
+        "description": "Description of Product E"
+    },
+    {
+        "id": 6,
+        "name": "Product F",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyVCIHyNHBKxApYtclaMVDqLv7VGGFkuAFHg&s",
+        "Price": "260",
+        "description": "Description of Product F"
+    },
+    {
+        "id": 7,
+        "name": "Product G",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaq-VPFbGrL0TBQQOE69qFI3SYCyGycPNwpg&s",
+        "Price": "530",
+        "description": "Description of Product G"
+    },
+    {
+        "id": 8,
+        "name": "Product H",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmy_Gw1u960mg3g0UDNbGzpzHLw0G2RUKIg&s",
+        "Price": "270",
+        "description": "Description of Product H"
+    },
+    {
+        "id": 9,
+        "name": "Product I",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmYURp1FjiH1uGee5LIJ94-0vjC-p45Bpww&s",
+        "Price": "530",
+        "description": "Description of Product I"
+    }
+]
